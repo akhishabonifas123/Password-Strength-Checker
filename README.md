@@ -1,5 +1,4 @@
 Features
-
 Real-time Feedback: Instantly classifies passwords into Weak, Medium, or Strong.
 
 Visual Indicators: Uses color-coded results (Red, Yellow, Green) for better user experience.
